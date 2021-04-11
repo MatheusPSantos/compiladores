@@ -1,0 +1,5 @@
+int main(){
+	if(salario > 1000){
+		salario = salario - INSS;
+	}
+}

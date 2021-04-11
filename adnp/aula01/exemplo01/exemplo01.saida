@@ -1,0 +1,36 @@
+Lexema=[int]	Token=106
+	Símbolo desconhecido:[ ]
+Lexema=[main]	Token=106
+	Símbolo desconhecido:[(]
+	Símbolo desconhecido:[)]
+Lexema=[{]	Token=102
+
+	Símbolo desconhecido:[	]
+Lexema=[if]	Token=100
+	Símbolo desconhecido:[(]
+Lexema=[salario]	Token=106
+	Símbolo desconhecido:[ ]
+	Símbolo desconhecido:[>]
+	Símbolo desconhecido:[ ]
+Lexema=[1000]	Token=105
+	Símbolo desconhecido:[)]
+Lexema=[{]	Token=102
+
+	Símbolo desconhecido:[	]
+	Símbolo desconhecido:[	]
+Lexema=[salario]	Token=106
+	Símbolo desconhecido:[ ]
+	Símbolo desconhecido:[=]
+	Símbolo desconhecido:[ ]
+Lexema=[salario]	Token=106
+	Símbolo desconhecido:[ ]
+	Símbolo desconhecido:[-]
+	Símbolo desconhecido:[ ]
+Lexema=[INSS]	Token=106
+Lexema=[;]	Token=104
+
+	Símbolo desconhecido:[	]
+Lexema=[}]	Token=103
+
+Lexema=[}]	Token=103
+Fim de arquivo encontrado.

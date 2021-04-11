@@ -1,0 +1,17 @@
+Teste de texto com cpf
+123.456.789-00
+
+O cpf não precisa estar separado 
+por espaços como por exemplo aqui *&*&*(&*(999.111.222-33AAABBB
+
+Veja o que acontece se estiver entre outros numeros
+como aqui: 00000000123.456.789-12000000000000
+
+e VEJA O QUE ACONTECE COM 2 cpfs seguidos
+como aqui: 123.456.789-33987.654.321-11okokokok
+
+
+
+
+
+
